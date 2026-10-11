@@ -1,0 +1,14 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
+
+# Secrets (never commit these)
+*.pfx
+*.key
+*.pem
+.env
+parameters.local.json
